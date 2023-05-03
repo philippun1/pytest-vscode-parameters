@@ -1,0 +1,9 @@
+{
+  "python.testing.pytestArgs": [
+    ".",
+    "--test_option",
+    "asdf"
+  ],
+  "python.testing.unittestEnabled": false,
+  "python.testing.pytestEnabled": true
+}
