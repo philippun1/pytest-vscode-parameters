@@ -1,8 +1,10 @@
 {
+  "python.analysis.logLevel": "Trace",
   "python.experiments.optInto": ["pythonTestAdapter"],
   "python.testing.pytestArgs": [
     ".",
-    "--test_option asd",
+    "--test_option",
+    "asd"
   ],
   "python.testing.unittestEnabled": false,
   "python.testing.pytestEnabled": true
