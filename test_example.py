@@ -1,2 +1,4 @@
+TEST = None
+
 def test_example():
-    pass
+    assert False, f"value of TEST: {TEST}"

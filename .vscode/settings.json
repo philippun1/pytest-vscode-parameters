@@ -1,8 +1,8 @@
 {
+  "python.experiments.optInto": ["pythonTestAdapter"],
   "python.testing.pytestArgs": [
     ".",
-    "--test_option",
-    "asdf"
+    "--test_option asd",
   ],
   "python.testing.unittestEnabled": false,
   "python.testing.pytestEnabled": true
